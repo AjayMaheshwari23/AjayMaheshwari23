@@ -36,6 +36,6 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AjayMaheshwari23&show_icons=true&theme=gruvbox&hide_border=true" />&nbsp;<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayMaheshwari23&theme=gruvbox&hide_border=true" />
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=AjayMaheshwari23&custom_title=Prerak%20Mathur's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)"/>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=AjayMaheshwari23&custom_title=Ajay%20Maheshwari's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)"/>
 
 <hr>
