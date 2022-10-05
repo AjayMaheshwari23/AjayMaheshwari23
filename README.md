@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="www.linkedin.com/in/ajay-maheshwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay maheshwari" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/a3j6a9y2" target="blank"><img align="center" src="[https://img.icons8.com/color/480/codechef.png](https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg)" alt="a3j6a9y2" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/a3j6a9y2" target="blank"><img align="center" src="https://img.icons8.com/color/480/codechef.png" alt="a3j6a9y2" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ajaymaheshwari3692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ajaymaheshwari3692" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lci2021023_iiitl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lci2021023_iiitl" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ajaymaheshwari" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8XoiZ_CNoHj2OAMkEtp-8Y7EESwRv7QdvB75CHuhkiA&s" alt="@ajaymaheshwari" height="30" width="40" /></a>
