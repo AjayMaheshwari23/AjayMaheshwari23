@@ -8,7 +8,7 @@
 
   <p align="center"> - 🌱 I’m currently learning **React Native** </p>
 
-  <p align="center"> - 💬 Ask me about **HTML, CSS, Js, ReactJS, NodeJS, MongoDB, PHP, PostgressSQL, MySQl, D3Js** </p>
+  <p align="center"> - 💬 Ask me about **HTML, CSS, Js, ReactJS, NodeJS, React Native, Paper, Hasura, MongoDB, PHP, PostgressSQL, MySQl, ChartJs, D3Js** </p>
 
 <hr>
 
