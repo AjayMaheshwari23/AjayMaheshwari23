@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Maheshwari  <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>  -->
 <h3 align="center"> Sophomore | Web Developer | Competitive Programmer | Freelancer</h3>
 
-  <p align="center"> - 🌱 I’m currently learning **React Native** </p>
+  <p align="center"> - 🌱 I’m currently learning **Next Js** </p>
 
   <p align="center"> - 💬 Ask me about **HTML, CSS, Js, ReactJS, NodeJS, React Native, Paper, Hasura, MongoDB, PHP, PostgressSQL, MySQl, ChartJs, D3Js** </p>
 
