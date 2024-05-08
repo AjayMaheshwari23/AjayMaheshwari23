@@ -4,11 +4,10 @@
 
 <hr>
 <h1 align="center">Hi 👋, I'm Ajay Maheshwari  <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>  -->
-<h3 align="center"> Sophomore | Web Developer | Competitive Programmer | Freelancer</h3>
+<h3 align="center"> Pre-Final Year IIITL'25 | Web Developer | Competitive Programmer </h3>
 
-  <p align="center"> - 🌱 I’m currently learning **Next Js** </p>
 
-  <p align="center"> - 💬 Ask me about **HTML, CSS, Js, ReactJS, NodeJS, React Native, Paper, Hasura, MongoDB, PHP, PostgressSQL, MySQl, ChartJs, D3Js** </p>
+  <p align="center"> - 💬 Ask me about **Next.Js, Typescript, Js, ReactJS, NodeJS, React Native, Paper, Ant Design, Yolo, Hasura, MongoDB, PHP, PostgressSQL, MySQl, ChartJs, D3Js, HTML, CSS** </p>
 
 <hr>
 
@@ -35,7 +34,5 @@
  </p>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AjayMaheshwari23&show_icons=true&theme=gruvbox&hide_border=true" />&nbsp;<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayMaheshwari23&theme=gruvbox&hide_border=true" />
-
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=AjayMaheshwari23&custom_title=Ajay%20Maheshwari's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)"/>
 
 <hr>
