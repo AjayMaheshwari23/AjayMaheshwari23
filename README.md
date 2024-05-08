@@ -4,10 +4,10 @@
 
 <hr>
 <h1 align="center">Hi 👋, I'm Ajay Maheshwari  <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>  -->
-<h3 align="center"> Pre-Final Year IIITL'25 | Web Developer | Competitive Programmer </h3>
+<h3 align="center"> Pre-Final Year | Full Stack Developer | Competitive Programmer </h3>
 
 
-  <p align="center"> - 💬 Ask me about **Next.Js, Typescript, Js, ReactJS, NodeJS, React Native, Paper, Ant Design, Yolo, Hasura, MongoDB, PHP, PostgressSQL, MySQl, ChartJs, D3Js, HTML, CSS** </p>
+  <h4 align="center"> - 💬 Ask me about NextJs, Typescript, Js, ReactJS, NodeJS, React Native, Paper, Ant Design, Yolo, Hasura, MongoDB, PHP, PostgressSQL, MySQl, ChartJs, D3Js, HTML, CSS, Strapi </h4>
 
 <hr>
 
